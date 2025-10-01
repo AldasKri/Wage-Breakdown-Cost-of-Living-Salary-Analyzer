@@ -23,7 +23,7 @@ Wage Breakdown is a simple, user-friendly Streamlit application that helps you u
 ```
 2. Install Dependancies
 ```bash
-   pip install streamlit plotly
+   pip install streamlit plotly pandas numpy
 ```
 3. Run the app with Streamlit:
 ```bash
