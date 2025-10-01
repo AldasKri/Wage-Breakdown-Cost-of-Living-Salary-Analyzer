@@ -29,3 +29,5 @@ Wage Breakdown is a simple, user-friendly Streamlit application that helps you u
 ```bash
    streamlit run wage_st.py
 ```
+4. Use the app
+   https://wage-breakdown-cost-of-living-salary-analyzer.streamlit.app
