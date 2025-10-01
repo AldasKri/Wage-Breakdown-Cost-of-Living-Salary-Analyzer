@@ -17,10 +17,10 @@ Wage Breakdown is a simple, user-friendly Streamlit application that helps you u
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
   git clone https://github.com/AldasKri/Wage-Breakdown-Cost-of-Living-Salary-Analyzer.git
   cd Wage-Breakdown-Cost-of-Living-Salary-Analyzer
-
+```
 2. Install Dependancies
    pip install streamlit plotly
 
